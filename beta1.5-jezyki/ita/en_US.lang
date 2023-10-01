@@ -33,15 +33,15 @@ selectWorld.resultFolder=Verrà salvato in:
 selectWorld.enterSeed=Seme per il generatore di mondi
 selectWorld.seedInfo=Lascia lo spazio vutoto per un seme casuale
 
-multiplayer.title=Play Multiplayer
-multiplayer.connect=Connect
-multiplayer.info1=Minecraft Multiplayer is currently not finished, but there
-multiplayer.info2=is some buggy early testing going on.
-multiplayer.ipinfo=Enter the IP of a server to connect to it:
+multiplayer.title=Multigiocatore
+multiplayer.connect=Entra nel server
+multiplayer.info1=Il multigiocatore di Minecraft al momento non è finito, ma c'è
+multiplayer.info2=sono in corso alcuni test iniziali con errori
+multiplayer.ipinfo=Inserisci l'IP di un server per connetterti ad esso:
 
-multiplayer.downloadingTerrain=Downloading terrain
+multiplayer.downloadingTerrain=Donwload del terreno
 
-multiplayer.stopSleeping=Leave Bed
+multiplayer.stopSleeping=Lascia il letto
 
 demo.day.1=This demo will last five game days, do your best!
 demo.day.2=Day Two
@@ -55,9 +55,9 @@ demo.help.movement=Use %1$s, %2$s, %3$s, %4$s and the mouse to move around
 demo.help.jump=Jump by pressing %1$s
 demo.help.inventory=Use %1$s to open your inventory
 
-connect.connecting=Connecting to the server...
-connect.authorizing=Logging in...
-connect.failed=Failed to connect to the server
+connect.connecting=Connessione al server...
+connect.authorizing=Entrando...
+connect.failed=Impossibile connettersi al server
 
 disconnect.genericReason=%s
 disconnect.disconnected=Disconnected by Server
